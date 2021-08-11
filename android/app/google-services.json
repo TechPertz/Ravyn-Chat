@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502259112640",
+    "firebase_url": "https://flash-chat-67b8b.firebaseio.com",
+    "project_id": "flash-chat-67b8b",
+    "storage_bucket": "flash-chat-67b8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502259112640:android:336c1fb032432f7e30ab25",
+        "android_client_info": {
+          "package_name": "co.reetnandy.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502259112640-2k498dsh97pc5e3ij4ga0goq6lnf5pdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.reetnandy.flash_chat",
+            "certificate_hash": "6babe6b24eab84cc97bb2a00c055633773bf11d5"
+          }
+        },
+        {
+          "client_id": "502259112640-pejrrookh1mc5rq9idp7771jbfscmk4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rltNxusjKqI47X7krqIwuHfpRQNnEQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502259112640-pejrrookh1mc5rq9idp7771jbfscmk4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
